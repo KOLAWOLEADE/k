@@ -8,11 +8,11 @@ text-transform: capitalize;
 
 }
 ul{
-    background-color: cornflowerblue;
+    background-color: skyblue;
 }
 li{
-color: blue;
-height: 35px;
+    color: yellow;
+height: 30px;
 
 }
 img{
@@ -20,5 +20,8 @@ height: 200px;
 border: 15px;
 width: 250px;
 border-color: black;
-border-style: solid;
+border-style: groove;
+}
+marquee{
+    color: cyan;
 }
